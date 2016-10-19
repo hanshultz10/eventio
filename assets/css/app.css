@@ -17,6 +17,18 @@ body {
   width: 100%;
 }
 
+/* Navigation */
+nav {
+  background-color: #3498db;
+  margin-bottom: 3em;
+}
+nav .title{
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  text-decoration: none;
+  
+}
 /* Typography */
 h1,
 h2,
